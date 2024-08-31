@@ -7,3 +7,6 @@ This is just me learning how to use github
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [ ] Understand how coding works and the principles
+- [ ] Become familiar in this space
+- [ ] Create friends in here
